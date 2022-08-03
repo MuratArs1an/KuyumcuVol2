@@ -1,0 +1,34 @@
+.cardp{
+    border:#2E2F5B; 
+    border-style:solid; 
+    border-radius:8px;
+    margin-top: 40%; 
+    width:30%; 
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:#F4D35E
+}
+
+nav{
+    font-size:18px;
+    font-weight: bold;
+    background-color: #2E2F5B;
+}
+
+body{
+    background-color:#FAF0CA;
+}
+
+h1,h2,h3{
+    text-align:center; 
+    color: #505581;
+}
+
+button{
+    border:none;
+    color:white;
+    border-radius:5px;
+}
